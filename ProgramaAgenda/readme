@@ -1,0 +1,8 @@
+Esse programa é um gerenciador de lista de contatos, foi utilizado o conceito de classes e objetos, além da estrutura de dados Lista.
+
+Através de um MENU, ele permite:
+
+a) Adicionar um novo contato com nome, telefone e e-mail
+b) Atualizar informações de um contato existente
+c) Excluir um contato da agenda
+d) Listar todos os contatos na agenda

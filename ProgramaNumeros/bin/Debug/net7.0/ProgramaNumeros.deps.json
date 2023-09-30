@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ProgramaNumeros/1.0.0": {
+        "runtime": {
+          "ProgramaNumeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProgramaNumeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

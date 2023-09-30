@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\ProjetoAED\ProgramaNumeros\bin\Debug\net7.0\ProgramaNumeros.exe
+C:\Users\vinic\Desktop\ProjetoAED\ProgramaNumeros\bin\Debug\net7.0\ProgramaNumeros.deps.json
+C:\Users\vinic\Desktop\ProjetoAED\ProgramaNumeros\bin\Debug\net7.0\ProgramaNumeros.runtimeconfig.json
+C:\Users\vinic\Desktop\ProjetoAED\ProgramaNumeros\bin\Debug\net7.0\ProgramaNumeros.dll
+C:\Users\vinic\Desktop\ProjetoAED\ProgramaNumeros\bin\Debug\net7.0\ProgramaNumeros.pdb
+C:\Users\vinic\Desktop\ProjetoAED\ProgramaNumeros\obj\Debug\net7.0\ProgramaNumeros.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\ProjetoAED\ProgramaNumeros\obj\Debug\net7.0\ProgramaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\ProjetoAED\ProgramaNumeros\obj\Debug\net7.0\ProgramaNumeros.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\ProjetoAED\ProgramaNumeros\obj\Debug\net7.0\ProgramaNumeros.AssemblyInfo.cs
+C:\Users\vinic\Desktop\ProjetoAED\ProgramaNumeros\obj\Debug\net7.0\ProgramaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\ProjetoAED\ProgramaNumeros\obj\Debug\net7.0\ProgramaNumeros.dll
+C:\Users\vinic\Desktop\ProjetoAED\ProgramaNumeros\obj\Debug\net7.0\refint\ProgramaNumeros.dll
+C:\Users\vinic\Desktop\ProjetoAED\ProgramaNumeros\obj\Debug\net7.0\ProgramaNumeros.pdb
+C:\Users\vinic\Desktop\ProjetoAED\ProgramaNumeros\obj\Debug\net7.0\ProgramaNumeros.genruntimeconfig.cache
+C:\Users\vinic\Desktop\ProjetoAED\ProgramaNumeros\obj\Debug\net7.0\ref\ProgramaNumeros.dll
