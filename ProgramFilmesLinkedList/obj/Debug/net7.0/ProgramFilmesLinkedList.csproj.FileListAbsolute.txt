@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramFilmesLinkedList\bin\Debug\net7.0\ProgramFilmesLinkedList.exe
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramFilmesLinkedList\bin\Debug\net7.0\ProgramFilmesLinkedList.deps.json
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramFilmesLinkedList\bin\Debug\net7.0\ProgramFilmesLinkedList.runtimeconfig.json
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramFilmesLinkedList\bin\Debug\net7.0\ProgramFilmesLinkedList.dll
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramFilmesLinkedList\bin\Debug\net7.0\ProgramFilmesLinkedList.pdb
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramFilmesLinkedList\obj\Debug\net7.0\ProgramFilmesLinkedList.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramFilmesLinkedList\obj\Debug\net7.0\ProgramFilmesLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramFilmesLinkedList\obj\Debug\net7.0\ProgramFilmesLinkedList.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramFilmesLinkedList\obj\Debug\net7.0\ProgramFilmesLinkedList.AssemblyInfo.cs
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramFilmesLinkedList\obj\Debug\net7.0\ProgramFilmesLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramFilmesLinkedList\obj\Debug\net7.0\ProgramFilmesLinkedList.dll
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramFilmesLinkedList\obj\Debug\net7.0\refint\ProgramFilmesLinkedList.dll
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramFilmesLinkedList\obj\Debug\net7.0\ProgramFilmesLinkedList.pdb
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramFilmesLinkedList\obj\Debug\net7.0\ProgramFilmesLinkedList.genruntimeconfig.cache
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramFilmesLinkedList\obj\Debug\net7.0\ref\ProgramFilmesLinkedList.dll

@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaDictionaryeArquivos\bin\Debug\net7.0\ProgramaDictionaryeArquivos.exe
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaDictionaryeArquivos\bin\Debug\net7.0\ProgramaDictionaryeArquivos.deps.json
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaDictionaryeArquivos\bin\Debug\net7.0\ProgramaDictionaryeArquivos.runtimeconfig.json
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaDictionaryeArquivos\bin\Debug\net7.0\ProgramaDictionaryeArquivos.dll
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaDictionaryeArquivos\bin\Debug\net7.0\ProgramaDictionaryeArquivos.pdb
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaDictionaryeArquivos\obj\Debug\net7.0\ProgramaDictionaryeArquivos.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaDictionaryeArquivos\obj\Debug\net7.0\ProgramaDictionaryeArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaDictionaryeArquivos\obj\Debug\net7.0\ProgramaDictionaryeArquivos.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaDictionaryeArquivos\obj\Debug\net7.0\ProgramaDictionaryeArquivos.AssemblyInfo.cs
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaDictionaryeArquivos\obj\Debug\net7.0\ProgramaDictionaryeArquivos.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaDictionaryeArquivos\obj\Debug\net7.0\ProgramaDictionaryeArquivos.dll
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaDictionaryeArquivos\obj\Debug\net7.0\refint\ProgramaDictionaryeArquivos.dll
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaDictionaryeArquivos\obj\Debug\net7.0\ProgramaDictionaryeArquivos.pdb
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaDictionaryeArquivos\obj\Debug\net7.0\ProgramaDictionaryeArquivos.genruntimeconfig.cache
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaDictionaryeArquivos\obj\Debug\net7.0\ref\ProgramaDictionaryeArquivos.dll

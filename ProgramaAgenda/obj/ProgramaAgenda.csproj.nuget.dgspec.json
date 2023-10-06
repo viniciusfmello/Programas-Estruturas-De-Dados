@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinic\\Desktop\\ProjetoAED\\ProgramaAgenda\\ProgramaAgenda.csproj": {}
+    "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramaAgenda\\ProgramaAgenda.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinic\\Desktop\\ProjetoAED\\ProgramaAgenda\\ProgramaAgenda.csproj": {
+    "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramaAgenda\\ProgramaAgenda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinic\\Desktop\\ProjetoAED\\ProgramaAgenda\\ProgramaAgenda.csproj",
+        "projectUniqueName": "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramaAgenda\\ProgramaAgenda.csproj",
         "projectName": "ProgramaAgenda",
-        "projectPath": "C:\\Users\\vinic\\Desktop\\ProjetoAED\\ProgramaAgenda\\ProgramaAgenda.csproj",
+        "projectPath": "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramaAgenda\\ProgramaAgenda.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinic\\Desktop\\ProjetoAED\\ProgramaAgenda\\obj\\",
+        "outputPath": "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramaAgenda\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config"

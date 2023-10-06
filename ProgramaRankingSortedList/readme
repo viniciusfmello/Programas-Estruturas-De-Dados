@@ -1,0 +1,9 @@
+Esse programa que mantém um ranking de jogadores de um jogo usando uma
+SortedList<int, string> onde a chave é a pontuação do jogador (int) e o valor é o nome do jogador
+(string).  Possui as seguintes funcionalidades:
+
+1) Adicionar um novo jogador e sua pontuação;
+2) Verificar a pontuação de um jogador em específico;
+3) Remover um jogador, bem como sua pontuação;
+4) Exibir o ranking de pontuação de forma crescente.
+

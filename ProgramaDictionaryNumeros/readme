@@ -1,0 +1,9 @@
+Esse programa recebe uma lista (list da collection List<int>) de números
+inteiros como entrada e usa um Dictionary<int, int> para calcular a frequência de cada número
+na lista. O dicionário mapeia o número (int) para a quantidade de vezes que ele aparece
+na lista. 
+Ele possui um menu com as seguintes opções:
+
+1) Verificar se um determinado número consta no dicionário;
+2) Dar a opção de se consultar quantos números distintos, constam no dicionário;
+3) Imprimir todas as palavras e suas respectivas frequências de ocorrências.

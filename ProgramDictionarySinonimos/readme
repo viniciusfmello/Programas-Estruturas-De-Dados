@@ -1,0 +1,7 @@
+Esse programa mantém um dicionário de sinônimos usando uma SortedList<string, List<string>> onde a chave é uma palavra (string) e o valor é uma lista de
+sinônimos (List<string>). Possui as seguintes funcionalidades:
+
+1) Adicionar uma nova palavra e seus sinônimos;
+2) Pesquisar os sinônimos de uma palavra em específico;
+3) Exibir o dicionário em ordem alfabética das palavras.
+

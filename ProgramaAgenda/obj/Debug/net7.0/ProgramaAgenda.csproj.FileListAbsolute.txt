@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaAgenda\obj\Debug\net7.0\ProgramaAgenda.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaAgenda\obj\Debug\net7.0\ProgramaAgenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaAgenda\obj\Debug\net7.0\ProgramaAgenda.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaAgenda\obj\Debug\net7.0\ProgramaAgenda.AssemblyInfo.cs
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaAgenda\obj\Debug\net7.0\ProgramaAgenda.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaAgenda\bin\Debug\net7.0\ProgramaAgenda.exe
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaAgenda\bin\Debug\net7.0\ProgramaAgenda.deps.json
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaAgenda\bin\Debug\net7.0\ProgramaAgenda.runtimeconfig.json
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaAgenda\bin\Debug\net7.0\ProgramaAgenda.dll
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaAgenda\bin\Debug\net7.0\ProgramaAgenda.pdb
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaAgenda\obj\Debug\net7.0\ProgramaAgenda.dll
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaAgenda\obj\Debug\net7.0\refint\ProgramaAgenda.dll
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaAgenda\obj\Debug\net7.0\ProgramaAgenda.pdb
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaAgenda\obj\Debug\net7.0\ProgramaAgenda.genruntimeconfig.cache
+C:\Users\vinic\Desktop\projetos\ProjetoAED\ProgramaAgenda\obj\Debug\net7.0\ref\ProgramaAgenda.dll
