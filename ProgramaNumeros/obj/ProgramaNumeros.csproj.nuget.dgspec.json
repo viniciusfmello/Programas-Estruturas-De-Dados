@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinic\\Desktop\\ProjetoAED\\ProgramaNumeros\\ProgramaNumeros.csproj": {}
+    "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramaNumeros\\ProgramaNumeros.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinic\\Desktop\\ProjetoAED\\ProgramaNumeros\\ProgramaNumeros.csproj": {
+    "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramaNumeros\\ProgramaNumeros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinic\\Desktop\\ProjetoAED\\ProgramaNumeros\\ProgramaNumeros.csproj",
+        "projectUniqueName": "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramaNumeros\\ProgramaNumeros.csproj",
         "projectName": "ProgramaNumeros",
-        "projectPath": "C:\\Users\\vinic\\Desktop\\ProjetoAED\\ProgramaNumeros\\ProgramaNumeros.csproj",
+        "projectPath": "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramaNumeros\\ProgramaNumeros.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinic\\Desktop\\ProjetoAED\\ProgramaNumeros\\obj\\",
+        "outputPath": "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramaNumeros\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinic\\Desktop\\ProjetoAED\\ProgramaFilmes\\ProgramaFilmes.csproj": {}
+    "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramaFilmes\\ProgramaFilmes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinic\\Desktop\\ProjetoAED\\ProgramaFilmes\\ProgramaFilmes.csproj": {
+    "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramaFilmes\\ProgramaFilmes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinic\\Desktop\\ProjetoAED\\ProgramaFilmes\\ProgramaFilmes.csproj",
+        "projectUniqueName": "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramaFilmes\\ProgramaFilmes.csproj",
         "projectName": "ProgramaFilmes",
-        "projectPath": "C:\\Users\\vinic\\Desktop\\ProjetoAED\\ProgramaFilmes\\ProgramaFilmes.csproj",
+        "projectPath": "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramaFilmes\\ProgramaFilmes.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinic\\Desktop\\ProjetoAED\\ProgramaFilmes\\obj\\",
+        "outputPath": "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramaFilmes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramDictionaryPalavras\\ProgramDictionaryPalavras.csproj": {}
+    "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramDictionarySinonimos\\ProgramDictionaryPalavras.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramDictionaryPalavras\\ProgramDictionaryPalavras.csproj": {
+    "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramDictionarySinonimos\\ProgramDictionaryPalavras.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramDictionaryPalavras\\ProgramDictionaryPalavras.csproj",
+        "projectUniqueName": "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramDictionarySinonimos\\ProgramDictionaryPalavras.csproj",
         "projectName": "ProgramDictionaryPalavras",
-        "projectPath": "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramDictionaryPalavras\\ProgramDictionaryPalavras.csproj",
+        "projectPath": "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramDictionarySinonimos\\ProgramDictionaryPalavras.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramDictionaryPalavras\\obj\\",
+        "outputPath": "C:\\Users\\vinic\\Desktop\\projetos\\ProjetoAED\\ProgramDictionarySinonimos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config"
